@@ -327,11 +327,6 @@ By combining AI-based detection, predictive tracking, and feedback control, the 
 
 **Detect intelligently. Predict movement. Align precisely.**
 
----
-
-## 📜 License
-
-Add your chosen open-source license here.
 
 ---
 
